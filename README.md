@@ -1,4 +1,4 @@
-# NCM LMS V7 Server Edition
+# NCM LMS V8 Server Edition
 
 هذه نسخة خادم تجريبية تعمل بقاعدة بيانات SQLite، وتدعم الدخول من أكثر من جهاز إذا تم تشغيلها على سيرفر واحد.
 
